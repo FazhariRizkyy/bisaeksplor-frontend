@@ -35,7 +35,7 @@ export default function RootLayout({
         className={`${font.className} antialiased`}
       > 
         {children}
-      <Navbar />  
+        <Navbar />
       </body>
     </html>
   );
